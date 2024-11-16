@@ -1,3 +1,6 @@
+//Gianluca Laura 121642/3 Maia Laikow 119062/7
+//https://www.youtube.com/watch?v=XKSex74IblQ
+
 let objJuego;
 let imgPersonaje, imgBala, imgMeteorito, imgCiudadIntacta, imgCiudadDañada, imgCiudadDestruida;
 let musicaJuego;
